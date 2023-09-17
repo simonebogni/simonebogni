@@ -7,7 +7,7 @@ I am an eager learner and I always strive to increase my knowledge, not only pro
 
 Some of my interests include playing with RPG/TableTop games and cooking and experimenting with food (but mostly eating it 😉).
 
-<a href="https://app.daily.dev/simonebogni92"><img src="https://api.daily.dev/devcards/d2a054dd1078428181afec13b5794269.png?r=y1z" width="400" alt="Simone Bogni's Dev Card"/></a>
+<a href="https://app.daily.dev/simonebogni92"><img src="https://github.com/simonebogni/simonebogni/blob/main/devcard.svg" width="400" alt="Simone Bogni's Dev Card"/></a>
 
 <!--
 **simonebogni/simonebogni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
