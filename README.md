@@ -2,11 +2,11 @@
 I'm Simone (pron: /sɪmɔnɛ/), nice to meet you!
 
 #### 💻 Technical and work details
-I'm a **Full Stack developer** and **Tech Leader** for a group of 10 developers.\
-I specialize in Web and **E-Commerce (Shopify Plus) development** and **solution planning**.\
+I'm a **Full Stack developer** and **Tech Leader** for a group of 15 developers.\
+I specialize in Web and **E-Commerce (Shopify Platinum) development** and **solution planning**.\
 I focus mostly on the **Laravel environment** (a PHP framework), but I'm familiar with other frameworks and programming languages too.\
 When it comes to Shopify, I'm proficient both in building Storefront themes using Liquid (Shopify's templating language) as well as building fullstack applications and extensions to leverage Shopify's platform, as well as extending it.\
-I'm currently working at an amazing **Shopify Plus partner agency**, with a very close multi-year collaboration with a famous multinational company.\
+I'm currently working at an amazing **Shopify Platinum partner agency**, with a very close multi-year collaboration with a famous multinational company.\
 In terms of people I like to work with, I connect best with those that foster a spirit of diversity, inclusion and multiculturalism.
 
 #### 🌱 I’m currently learning...
